@@ -55,11 +55,11 @@ technicalSkills:
    - name: Latex
 
 sideProjects:
-  - name: jekyll-clean-dark
-    description: Theme for Jekyll - static site generator. After creating theme for my blog I shared it on github.
+  - name: GeriaTIC
+    description: Project for active aging in elderly people with Xiaomi Mi Band wristbands.
     link: https://github.com/streetturtle/jekyll-clean-dark
-    type: github
-    langs: HTML/CSS/Bootstrap
+    type: site
+    langs: ASP.NET/Python/SQL Server/Bluepy/PyODBC
 
   - name: number-writing-trainer
     description: Application which helps with learning foreign numerals. Was created to help with learning how to write french numbers as well as to practice AngularJS.
