@@ -1,4 +1,3 @@
-
 url: themvs.github.io
 projectUrl: TheMVS.github.io
 
@@ -61,7 +60,6 @@ sideProjects:
     link: https://geriatic.udc.es
     type: site
     langs: ASP.NET/Python/SQL Server/Bluepy/PyODBC
-
 
 education:
   - name: Masters Degree in Bioinformatics for Health Science
