@@ -43,13 +43,13 @@ technicalSkills:
    - name: Machine Learning
    - name: Computer Vision
   computing:
-   - name: Python, Keras, Sci-Kit, Bluepy, PyODB, MatLab
-   - name: Java, C++, C#
-   - name: Ubuntu, Windows, OSX
-   - name: SQL, SwL Server
+   - name: Python Keras Sci-Kit Bluepy PyODB MatLab
+   - name: Java C++ C#
+   - name: Ubuntu Windows OSX
+   - name: SQL SQL Server
 
   other:
-   - name: Git, svn
+   - name: Git SVN
    - name: Docker
    - name: Latex
 
