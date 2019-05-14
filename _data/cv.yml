@@ -60,11 +60,7 @@ sideProjects:
     link: https://geriatic.udc.es
     type: site
     langs: ASP.NET/Python/SQL Server/Bluepy/PyODBC
-  - name: System for Assessment of Alzheimer's Disease Diagnosis Based on Deep Learning Techniques
-    description: Deep Learning project in Keras for identifying Alzheimer's disease in two reference datasets (OASIS and ADNI).
-    link: https://github.com/TheMVS/tfm_deep_learning_alzheimer
-    type: github
-    langs: Python/Keras/Sci-Kit
+
 
 education:
   - name: Masters Degree in Bioinformatics for Health Science
