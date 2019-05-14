@@ -23,7 +23,7 @@ career:
    accomplishments:
     - accomplishment: Created an API for automatically retrieve data from Xiaomi Mi Band wristbands.
     - accomplishment: Deployment of the API at Instituto Politécnico de Porto (Portugal) and at CITIC Research (A Corunna, Spain) for monitoring elderly people and office workers respectively.
-	- accomplishment: Learned SQL Server, PHP, Bluetooth, ASP.NET, C#, IIS and mastered Python.
+    - accomplishment: Learned SQL Server, PHP, Bluetooth, ASP.NET, C#, IIS and mastered Python.
  - position: Intern
    company: Instituto Tecnológico de Galicia (I.T.G.)
    location: A Corunna, Spain
