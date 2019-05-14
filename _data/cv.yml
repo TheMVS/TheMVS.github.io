@@ -57,7 +57,7 @@ technicalSkills:
 sideProjects:
   - name: GeriaTIC
     description: Project for active aging in elderly people with Xiaomi Mi Band wristbands.
-    link: https://github.com/streetturtle/jekyll-clean-dark
+    link: https://geriatic.udc.es
     type: site
     langs: ASP.NET/Python/SQL Server/Bluepy/PyODBC
 
