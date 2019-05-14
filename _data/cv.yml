@@ -44,7 +44,7 @@ technicalSkills:
    - name: Machine Learning
    - name: Computer Vision
   computing:
-   - name: Python Keras Sci-Kit Bluepy PyODB MatLab
+   - name: Python Keras Sci-Kit Bluepy PyODB Pandas OpenCV MatLab
    - name: Java C++ C#
    - name: Ubuntu Windows OSX
    - name: SQL SQL Server
@@ -65,7 +65,7 @@ sideProjects:
     description: Deep Learning project in Keras for identifying Alzheimer's disease in two reference datasets (OASIS and ADNI).
     link: https://github.com/TheMVS/tfm_deep_learning_alzheimer
     type: github
-    langs: Python/Keras/Sci-Kit
+    langs: Python/Keras/Sci-Kit/Pandas/OpenCV
 
 education:
   - name: Masters Degree in Bioinformatics for Health Science
